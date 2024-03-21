@@ -16,7 +16,7 @@ using DelimitedFiles
 using BenchmarkTools
 
 push!(LOAD_PATH, pwd())
-using Generation
+using Generation, LoadCases
 using Geometry, Filters, FEM
 using Objectives, Sensitivity
 using PostProcess
