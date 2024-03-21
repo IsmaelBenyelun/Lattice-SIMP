@@ -21,3 +21,6 @@ __pycache__/
 
 # Local History for Visual Studio Code
 .history/
+
+# Custom files
+packages.jl
