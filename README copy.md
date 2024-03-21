@@ -2,6 +2,8 @@
 
 Topology Optimization algorithm for (linear elastic) truss lattice structures based on the SIMP approach
 
+To install dependencies, execute `packages.jl` or run `$ julia packages.jl` (#TODO: create a proper `Project.toml` file)
+
 Execute using julia `main.jl`, or run in the command line:
 
 ```cli
