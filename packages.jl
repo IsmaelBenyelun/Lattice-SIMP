@@ -1,7 +1,7 @@
 using Pkg
 
 dependencies = [
-    "NLOpt",
+    "NLopt",
     "LinearSolve"
 ]
 
